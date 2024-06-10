@@ -1,0 +1,9 @@
+[submodule "external/openssl-cmake"]
+	path = external/openssl-cmake
+	url = https://github.com/viaduck/openssl-cmake.git
+[submodule "external/curl"]
+	path = external/curl
+	url = https://github.com/curl/curl.git
+[submodule "external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt.git
